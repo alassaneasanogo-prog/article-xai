@@ -1,5 +1,14 @@
 # Explicabilité en Intelligence Artificielle (XAI)
+## 📑 Table des matières
 
+- [Introduction](#1-introduction)
+- [Problématique](#2-problématique)
+- [Méthodes d’explicabilité](#3-méthodes-dexplicabilité)
+  - [Valeurs de Shapley](#31-valeurs-de-shapley)
+  - [Méthodes de gradient](#32-méthodes-de-gradient)
+  - [Méthodes de visualisation](#33-méthodes-de-visualisation)
+- [Analyse](#4-analyse)
+- [Conclusion](#5-conclusion)
 ## Résumé
 
 L’intelligence artificielle est de plus en plus utilisée dans des domaines critiques comme la santé et la finance. Cependant, les modèles complexes sont souvent difficiles à comprendre. Cet article présente les principales méthodes d’explicabilité ainsi que leurs avantages et limites.
