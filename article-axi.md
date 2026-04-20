@@ -89,3 +89,4 @@ L’explicabilité est un élément clé pour une utilisation responsable de l�
 * Goodfellow et al. - Deep Learning
 * https://christophm.github.io/interpretable-ml-book
 * http://lineardigressions.com/episodes/2018/5/13/shap-shapley-values-in-machine-learning
+* https://github.com/shap/shap
